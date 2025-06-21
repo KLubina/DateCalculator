@@ -1,0 +1,5 @@
+C:\GitHubDesktop\DateCalculator\DateCalculator\bin\Release\net8.0\app.publish\DateCalculator.exe
+C:\GitHubDesktop\DateCalculator\DateCalculator\bin\Release\net8.0\app.publish\DateCalculator.dll
+C:\GitHubDesktop\DateCalculator\DateCalculator\bin\Release\net8.0\app.publish\DateCalculator.deps.json
+C:\GitHubDesktop\DateCalculator\DateCalculator\bin\Release\net8.0\app.publish\DateCalculator.runtimeconfig.json
+C:\GitHubDesktop\DateCalculator\DateCalculator\bin\Release\net8.0\app.publish\DateCalculator.pdb

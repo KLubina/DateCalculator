@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DateCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b216409cddbca85cec752afd6b5855c0f6bb7c4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fd3ec475fed997042ad3884a769a0b05651a8c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DateCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DateCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
